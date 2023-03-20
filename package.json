@@ -1,6 +1,6 @@
 {
   "name": "trip-to-mars-sjv-test",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Trip to Mars",
   "main": "index.js",
   "scripts": {
